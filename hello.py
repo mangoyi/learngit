@@ -1,7 +1,4 @@
-/--/utf - 8
-print('hello,world')
-checkout -b dev
-Switched to a new branch 'dev'
 
-Administrator@BZB19 MINGW64 ~/learngit (dev)
-$
+/--starderd utf-8/utf - 8
+print('hello,world')
+
